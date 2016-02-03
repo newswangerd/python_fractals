@@ -1,8 +1,7 @@
 # python_fractals
 A collection of fractals written in python. These programs use the Lyndenmeier system (L-System) to draw a varity of fractals.
 
-Dragon curve:
-![Dragon Curve](http://imgur.com/Lrmm5Pw)
+![Dragon Curve](http://i.imgur.com/Lrmm5Pw.png "Dragon Curve")
 
-Sierpinski Triangle:
-![Triangle](http://imgur.com/pGeSNYU)
+
+![Triangle](http://i.imgur.com/pGeSNYU.gif "Sierpinski Triangle")
